@@ -20,6 +20,7 @@ uma nova entrega e preserva o mesmo identificador de evento para permitir
 deduplicacao no consumidor.
 
 | status | significado | acao recomendada |
+| --- | --- | --- |
 | 200 | evento recebido e persistido | encerrar entrega |
 | 408 | consumidor nao respondeu dentro do limite | reagendar com backoff |
 | 429 | consumidor pediu reducao de ritmo | aplicar espera maior |
