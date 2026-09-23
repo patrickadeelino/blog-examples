@@ -21,3 +21,7 @@ Exemplos executáveis, notebooks e arquivos de apoio usados nos artigos do blog.
 - [`pratica-chunking-tamanho-fixo.ipynb`](information-retrieval/04-chunking/notebooks/pratica-chunking-tamanho-fixo.ipynb)
 - [`pratica-chunking-estrutural.ipynb`](information-retrieval/04-chunking/notebooks/pratica-chunking-estrutural.ipynb)
 - [`pratica-chunking-semantico.ipynb`](information-retrieval/04-chunking/notebooks/pratica-chunking-semantico.ipynb)
+
+### 06. Hybrid Search
+
+- [`pratica-busca-hibrida-rrf.ipynb`](information-retrieval/06-hybrid-search-reranking/notebooks/pratica-busca-hibrida-rrf.ipynb)
